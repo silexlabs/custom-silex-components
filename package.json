@@ -11,6 +11,6 @@
   "author": "lexoyo",
   "license": "MIT",
   "dependencies": {
-    "silex-website-builder": "^2.5.10"
+    "silex-website-builder": "^2.5.11"
   }
 }
