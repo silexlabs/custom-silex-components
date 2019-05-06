@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "postinstall": "npm run build",
-    "build": "cp -r templates/* node_modules/silex-templates/"
+    "build": "cp components/* node_modules/silex-website-builder/src/prodotype/components/ && cd node_modules/silex-website-builder/ && npm run build:components"
   },
   "author": "lexoyo",
   "license": "MIT",

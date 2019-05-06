@@ -1,0 +1,13 @@
+---
+name: Test component
+description: A simple component which displays a title and a paragraph.
+doc: https://github.com/silexlabs/Silex/wiki/Create-Silex-components
+category: Test
+faIconClass: fa-square
+props:
+- name: title
+  type: string
+- name: paragraph
+  type: string
+  description: 'This is a help text for Silex UI'
+  default: 'This is the default value'
