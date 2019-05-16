@@ -4,11 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "start:bg": "nodemon index.js &"
+  },
+  "dependencies": {
+    "silex-website-builder": "*"
   },
   "author": "lexoyo",
   "license": "MIT",
-  "dependencies": {
-    "silex-website-builder": "^2.5.11"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silexlabs/custom-silex.git"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
   }
 }
