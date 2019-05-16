@@ -11,6 +11,10 @@
   "author": "lexoyo",
   "license": "MIT",
   "dependencies": {
-    "silex-website-builder": "^2.5.11"
+    "silex-website-builder": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silexlabs/custom-silex-components.git"
   }
 }
