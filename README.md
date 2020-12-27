@@ -22,7 +22,7 @@ Clone this repo
 
 ```
 $ git clone git@github.com:silexlabs/custom-silex-components.git
-$ cd custom-silex
+$ cd custom-silex-components
 ```
 
 Build the image
@@ -47,7 +47,7 @@ Clone this repo
 
 ```
 $ git clone git@github.com:silexlabs/custom-silex-components.git
-$ cd custom-silex
+$ cd custom-silex-components
 ```
 
 Install Silex and run it
